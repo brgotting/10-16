@@ -1,0 +1,31 @@
+#walrus-showing-fade {
+display: none;
+}
+
+#walrus-showing-slide {
+display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+/* Blur */
+/* .hover figure img {
+
+	filter: blur(10px);
+  opacity: .4;
+
+	transition: .3s ease-in-out; */
+  /* height: 400px */
+/* }
+.hover figure:hover img {
+  opacity: 1;
+
+	filter: blur(0);
+} */
